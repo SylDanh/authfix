@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LodelPlugin>
+  <title>authfix</title>
+  <description>Modification des droits dans l'administration</description>
+  <sql>0</sql>
+  <hookType>class</hookType>
+  <hook>class</hook>
+  <triggers>preview,postview</triggers>
+  <parameters>
+  </parameters>
+</LodelPlugin>
